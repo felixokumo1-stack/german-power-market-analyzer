@@ -65,7 +65,7 @@ documentation
 To run the simulator locally, follow these steps:
 
 Clone the repository: git clone
-\https://github.com/felixokumo1-stack/german-power-market-analyzer.git)\
+(https://github.com/felixokumo1-stack/german-power-market-analyzer.git)
 cd german-power-market-analyzer
 
 Install dependencies: pip install -r requirements.txt
