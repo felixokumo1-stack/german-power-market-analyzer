@@ -49,6 +49,16 @@ emissions and grid carbon intensity (g/kWh). \* \*\*Interactive
 Visuals:\*\* Dynamic Merit Order \"Staircase\" charts and Technology
 Stack breakdowns.
 
+## 🏭 EU ETS Integration
+
+This model includes advanced emissions trading system (ETS) analysis:
+
+- **Coal-Gas Switching Price**: Calculates the carbon price threshold where gas 
+  becomes more economical than coal
+- **Market Regime Classification**: Automatically identifies whether scenarios 
+  are coal-dominated or gas-dominated
+- **BI-Ready Exports**: Long-format data exports optimized for Power BI/Tableau
+  
 \## 🛠️ Technical Stack \* \*\*Language:\*\* Python 3.11 \* \*\*Data
 Science:\*\* \`pandas\`, \`numpy\`, \`openpyxl\` \*
 \*\*Visualization:\*\* \`plotly\`, \`matplotlib\` \* \*\*Web
